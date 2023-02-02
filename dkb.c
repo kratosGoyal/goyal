@@ -54,11 +54,11 @@ int main()
 		scanf("%d",&c);
 		if(c%2==0)
 		{
-			printf("ODD");
+			printf("EVEN");
 		}
 		else
 		{
-			printf("EVEN");
+			printf("ODD");
 		}
 
 		break;
